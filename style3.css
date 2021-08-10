@@ -1,1 +1,32 @@
+* {
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Georama', sans-serif;
+color: rgb(200, 244, 96);
+}
+ul {
+    list-style: none;
+font-size: 25px;
+font-style: italic;
+font-weight: 400;}
+a {text-decoration: none;}
+body {
 
+background: url(./fundo.jpg) center center fixed no-repeat;
+background-size: cover;}
+.container {text-align: center;}
+.container .name h1 {font-size: 60px;}
+.container .name h5 {font-size: 24px;}
+#about p {max-width: 800px;
+margin: 0 auto;}
+.form {width: 40%;}
+.form p {
+    color: black;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 800;
+}
+.form input {width: 20%;color: black;}
+.form button {width: 8%;}
+.form button {color: rgb(255, 255, 255);background: black;}
