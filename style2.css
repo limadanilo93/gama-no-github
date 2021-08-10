@@ -1,0 +1,28 @@
+*{color: rgb(212, 86, 86);
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+margin: 0;}
+/*#primeiro {
+    border: 1px solid green;
+    margin: 30px;
+}
+.segundo {
+    border: 3px solid black;
+    padding: 50px;
+}*/
+#primeiro, 
+.segundo { border: 3px solid black;
+    padding: 50px;
+    margin: 15px;
+
+}
+.navega nav span {
+    color: indigo; 
+         cursor: grabbing; 
+         transition: 4000ms;
+}
+nav span:hover {text-decoration: underline blueviolet; text-shadow: coral; background-color: crimson;
+}
+.segundo > p {color: lawngreen;}
+.segundo > div {display: block !important;
+}
