@@ -1,0 +1,5 @@
+body {font-style: italic; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    h1{color: blueviolet;width: auto;}
+    span {color: rgb(80, 255, 138);width: unset;}
+    image {width: inherit;}
+    li{color: rgb(115, 131, 23);text-decoration: underline; border: 1px yellow;}
